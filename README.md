@@ -1,1 +1,3 @@
 # TypingTutor
+
+The Typing Tutor is an application developed using Python, designed to enhance typing skills by evaluating both speed and accuracy. This project features a real-time typing test that measures the speed at which users write words and checks the accuracy of their typing. Additionally, the application maintains a score that reflects the user's typing ability, providing valuable feedback for improvement. The user-friendly interface and detailed performance metrics make it an effective tool for anyone looking to improve their typing skills. This project showcases my proficiency in Python programming and my ability to develop educational software that promotes skill development.
